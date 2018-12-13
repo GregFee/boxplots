@@ -1,6 +1,6 @@
 # Boxplots
 
-Assignment for Programming Data Analysis 
+Assignment for Fundamentals of Data Analysis GMIT
 
 An Investigation of the  the use of boxplots in Python
 
