@@ -1,8 +1,8 @@
 # Boxplots
 
-Assignment for Fundamentals of Data Analysis GMIT
+Assignment for Fundamentals of Data Analysis GMIT.
 
-An Investigation of the  the use of boxplots in Python
+An Investigation of the  the use of boxplots in Python.
 
 Contents
 Jupyter Notebook, a gitignore file, and a licence.
